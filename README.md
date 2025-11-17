@@ -1,2 +1,2 @@
 # fourtonmantis
-Cortex related artifacts used for testing
+Nothing to see here yet - stay tuned.
